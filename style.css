@@ -73,11 +73,11 @@ h1 {
 
 #pixel-board {
   margin-top: 25px;
-  cursor: pointer;
 }
 
 .lines {
   display: inline-block;
+  cursor: pointer;
 }
 
 .pixel {
